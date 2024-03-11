@@ -2,5 +2,5 @@ package nxqconfig
 
 // NexQloud Config
 const (
-	MaintenanceWallet = "0xC161cDAd214598E4c35B36de50d3A55060A96647"
+	MaintenanceWallet = "nxq1c9sumtfpgkvwfs6mxm09p5a92ps2jej8gmu73t"
 )
